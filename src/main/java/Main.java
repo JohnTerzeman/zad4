@@ -16,6 +16,7 @@ public class Main {
         System.out.println("Вывод суммы сумм локальных и глобальных переменных:");
         sum = localsum + globalsum;
         System.out.println(sum);
+
     }
 
 }
